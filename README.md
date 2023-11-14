@@ -24,6 +24,6 @@ rm -rf AHMED
 
 git clone https://github.com/Vairos00/Veroos-8X.git
 
-cd AHMED
+cd Ahmed
 
-python AHMED. PY
+python Ahmed.py
