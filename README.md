@@ -1,4 +1,4 @@
-termux-setup-storage
+termux -setup-storage
 
 pkg update -y
 
