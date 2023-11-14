@@ -26,4 +26,4 @@ git clone https://github.com/Vairos00/Veroos-8X.git
 
 cd AHMED
 
-python AHMED. py
+python AHMED. PY
